@@ -49,6 +49,6 @@ No GPU is required; the full pipeline runs on Kaggle's default CPU environment.
 
 ## Appendix
 
-**Contributors:** Team Gambia — Bon_Kurei (and teammates, add names here)
-**Mentors:** (add mentor name(s) here)
+**Contributors:** Team Gambia — Kasenge Raphael, Abok Tonny, Ogunmakinju Thomas
+**Mentors:** Samuel Taiwo
 **Cohort:** TRI AI Saturdays Cohort 10
